@@ -14,6 +14,7 @@ public class Esercizio2Runner implements CommandLineRunner {
     public void run(String... args) {
         System.out.println();
         System.out.println("Esercizio 2:");
+        System.out.println();
 
     /*    for (int i = 1; i <= 10; i++) {
             Pagina pagina = new Pagina(i, "Testo Pagina " + i);

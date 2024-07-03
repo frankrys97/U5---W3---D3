@@ -14,6 +14,7 @@ public class Esercizio1Runner implements CommandLineRunner {
     public void run(String... args) throws Exception {
         System.out.println();
         System.out.println("Esercizio 1:");
+        System.out.println();
         // Qui posso istanziare la classe info con i dati dell'utente
         Info info1 = new Info("Giggino", "Rossi", new Date(97, 10, 27));
 
